@@ -137,7 +137,7 @@ while true; do
     case $choice in
         1) setup_mining ;;
         2) check_system ;;
-        3) echo -e "${BLUE}Давай, до встречи! Следите за обновлениями на GitHub: @Brrrskuy ${NC}"; exit 0 ;;
+        3) echo -e "${BLUE}Давай, до встречи! Следите за обновлениями в телеграм @nod3r ${NC}"; exit 0 ;;
         *) echo -e "${CYAN}Неверная опция${NC}"; sleep 1 ;;
     esac
 done
